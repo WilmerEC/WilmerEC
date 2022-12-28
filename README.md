@@ -11,6 +11,8 @@ chemistry, astronomy, etc...), politics, economics, human rights, and history. W
 I'm currently broadening my soft & graphics skills in order to one day build game engines along with a team of equally passionate people! If you ever want
 to collab, don't hesitate to reach me at:
 
-wilmerenriqc@outlook.com with your name, field of work/study, and project idea.
+wilmerenriqc@outlook.com 
+
+...with your name, field of work/study, and project idea.
 
 
