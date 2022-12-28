@@ -1,14 +1,3 @@
-- 👋 Hi, I’m @WilmerEC
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-WilmerEC/WilmerEC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 Hi! I'm Wilmer Cubillan, a very passionate and curious individual interested in video games, technology, the world and what composes it!
 My main areas of study and interest are within video games & technology, specially Computer Graphics. As a kid, I have always been fascinated by the
 magic behind technology which, when combined with creativity, brings new worlds to life in the form of video games! 
